@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{491E5497-A043-4CB5-BF28-164B07A660E5}|WebUI\\WebUI.csproj|c:\\users\\tri\\source\\repos\\lab4\\customermanagement\\webui\\customerwform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{491E5497-A043-4CB5-BF28-164B07A660E5}|WebUI\\WebUI.csproj|solutionrelative:webui\\customerwform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491E5497-A043-4CB5-BF28-164B07A660E5}|WebUI\\WebUI.csproj|C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\webui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{491E5497-A043-4CB5-BF28-164B07A660E5}|WebUI\\WebUI.csproj|solutionrelative:webui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491E5497-A043-4CB5-BF28-164B07A660E5}|WebUI\\WebUI.csproj|C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\webui\\customerwform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491E5497-A043-4CB5-BF28-164B07A660E5}|WebUI\\WebUI.csproj|solutionrelative:webui\\customerwform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105C8EB1-ADB0-4987-82A2-DC1144773012}|BLL\\BLL.csproj|C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\bll\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105C8EB1-ADB0-4987-82A2-DC1144773012}|BLL\\BLL.csproj|solutionrelative:bll\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105C8EB1-ADB0-4987-82A2-DC1144773012}|BLL\\BLL.csproj|C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105C8EB1-ADB0-4987-82A2-DC1144773012}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA97A35A-7447-46DE-8E7D-5302AA66AFCE}|DAL\\DAL.csproj|C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\dal\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA97A35A-7447-46DE-8E7D-5302AA66AFCE}|DAL\\DAL.csproj|solutionrelative:dal\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA97A35A-7447-46DE-8E7D-5302AA66AFCE}|DAL\\DAL.csproj|C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\dal\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA97A35A-7447-46DE-8E7D-5302AA66AFCE}|DAL\\DAL.csproj|solutionrelative:dal\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA97A35A-7447-46DE-8E7D-5302AA66AFCE}|DAL\\DAL.csproj|C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\dal\\exer1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA97A35A-7447-46DE-8E7D-5302AA66AFCE}|DAL\\DAL.csproj|solutionrelative:dal\\exer1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA97A35A-7447-46DE-8E7D-5302AA66AFCE}|DAL\\DAL.csproj|C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA97A35A-7447-46DE-8E7D-5302AA66AFCE}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\WebUI\\Web.config",
+              "RelativeDocumentMoniker": "WebUI\\Web.config",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\WebUI\\Web.config",
+              "RelativeToolTip": "WebUI\\Web.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-09-19T01:11:39.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerWForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\WebUI\\CustomerWForm.aspx.cs",
+              "RelativeDocumentMoniker": "WebUI\\CustomerWForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\WebUI\\CustomerWForm.aspx.cs",
+              "RelativeToolTip": "WebUI\\CustomerWForm.aspx.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T01:07:48.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerWForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\WebUI\\CustomerWForm.aspx",
+              "RelativeDocumentMoniker": "WebUI\\CustomerWForm.aspx",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\WebUI\\CustomerWForm.aspx",
+              "RelativeToolTip": "WebUI\\CustomerWForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-19T01:05:44.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\BLL\\CustomerService.cs",
+              "RelativeDocumentMoniker": "BLL\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\BLL\\CustomerService.cs",
+              "RelativeToolTip": "BLL\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T01:01:17.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exer1DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\DAL\\Exer1DbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Exer1DbContext.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\DAL\\Exer1DbContext.cs",
+              "RelativeToolTip": "DAL\\Exer1DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T00:58:22.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\DAL\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\DAL\\CustomerRepository.cs",
+              "RelativeToolTip": "DAL\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T00:58:12.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\DAL\\Customer.cs",
+              "RelativeDocumentMoniker": "DAL\\Customer.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\DAL\\Customer.cs",
+              "RelativeToolTip": "DAL\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T00:58:04.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T00:55:48.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\Lab4\\CustomerManagement\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T00:55:37.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

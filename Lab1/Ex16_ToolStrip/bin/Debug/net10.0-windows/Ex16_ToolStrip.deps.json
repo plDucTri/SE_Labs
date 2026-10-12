@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ex16_ToolStrip/1.0.0": {
+        "runtime": {
+          "Ex16_ToolStrip.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex16_ToolStrip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

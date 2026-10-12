@@ -1,0 +1,16 @@
+C:\Users\Tri\source\repos\DataGridView\bin\Debug\net10.0-windows\DataGridView.exe
+C:\Users\Tri\source\repos\DataGridView\bin\Debug\net10.0-windows\DataGridView.deps.json
+C:\Users\Tri\source\repos\DataGridView\bin\Debug\net10.0-windows\DataGridView.runtimeconfig.json
+C:\Users\Tri\source\repos\DataGridView\bin\Debug\net10.0-windows\DataGridView.dll
+C:\Users\Tri\source\repos\DataGridView\bin\Debug\net10.0-windows\DataGridView.pdb
+C:\Users\Tri\source\repos\DataGridView\obj\Debug\net10.0-windows\DataGridView.Form1.resources
+C:\Users\Tri\source\repos\DataGridView\obj\Debug\net10.0-windows\DataGridView.csproj.GenerateResource.cache
+C:\Users\Tri\source\repos\DataGridView\obj\Debug\net10.0-windows\DataGridView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tri\source\repos\DataGridView\obj\Debug\net10.0-windows\DataGridView.AssemblyInfoInputs.cache
+C:\Users\Tri\source\repos\DataGridView\obj\Debug\net10.0-windows\DataGridView.AssemblyInfo.cs
+C:\Users\Tri\source\repos\DataGridView\obj\Debug\net10.0-windows\DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\DataGridView\obj\Debug\net10.0-windows\DataGridView.dll
+C:\Users\Tri\source\repos\DataGridView\obj\Debug\net10.0-windows\refint\DataGridView.dll
+C:\Users\Tri\source\repos\DataGridView\obj\Debug\net10.0-windows\DataGridView.pdb
+C:\Users\Tri\source\repos\DataGridView\obj\Debug\net10.0-windows\DataGridView.genruntimeconfig.cache
+C:\Users\Tri\source\repos\DataGridView\obj\Debug\net10.0-windows\ref\DataGridView.dll

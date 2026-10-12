@@ -1,0 +1,16 @@
+C:\Users\Tri\source\repos\Ex12_ListViewControl\bin\Debug\net10.0-windows\Ex12_ListViewControl.exe
+C:\Users\Tri\source\repos\Ex12_ListViewControl\bin\Debug\net10.0-windows\Ex12_ListViewControl.deps.json
+C:\Users\Tri\source\repos\Ex12_ListViewControl\bin\Debug\net10.0-windows\Ex12_ListViewControl.runtimeconfig.json
+C:\Users\Tri\source\repos\Ex12_ListViewControl\bin\Debug\net10.0-windows\Ex12_ListViewControl.dll
+C:\Users\Tri\source\repos\Ex12_ListViewControl\bin\Debug\net10.0-windows\Ex12_ListViewControl.pdb
+C:\Users\Tri\source\repos\Ex12_ListViewControl\obj\Debug\net10.0-windows\Ex12_ListViewControl.Form1.resources
+C:\Users\Tri\source\repos\Ex12_ListViewControl\obj\Debug\net10.0-windows\Ex12_ListViewControl.csproj.GenerateResource.cache
+C:\Users\Tri\source\repos\Ex12_ListViewControl\obj\Debug\net10.0-windows\Ex12_ListViewControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tri\source\repos\Ex12_ListViewControl\obj\Debug\net10.0-windows\Ex12_ListViewControl.AssemblyInfoInputs.cache
+C:\Users\Tri\source\repos\Ex12_ListViewControl\obj\Debug\net10.0-windows\Ex12_ListViewControl.AssemblyInfo.cs
+C:\Users\Tri\source\repos\Ex12_ListViewControl\obj\Debug\net10.0-windows\Ex12_ListViewControl.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\Ex12_ListViewControl\obj\Debug\net10.0-windows\Ex12_ListViewControl.dll
+C:\Users\Tri\source\repos\Ex12_ListViewControl\obj\Debug\net10.0-windows\refint\Ex12_ListViewControl.dll
+C:\Users\Tri\source\repos\Ex12_ListViewControl\obj\Debug\net10.0-windows\Ex12_ListViewControl.pdb
+C:\Users\Tri\source\repos\Ex12_ListViewControl\obj\Debug\net10.0-windows\Ex12_ListViewControl.genruntimeconfig.cache
+C:\Users\Tri\source\repos\Ex12_ListViewControl\obj\Debug\net10.0-windows\ref\Ex12_ListViewControl.dll

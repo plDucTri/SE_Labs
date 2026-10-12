@@ -1,0 +1,16 @@
+C:\Users\Tri\source\repos\StudentManagementApp\bin\Debug\StudentManagementApp.exe.config
+C:\Users\Tri\source\repos\StudentManagementApp\bin\Debug\StudentManagementApp.exe
+C:\Users\Tri\source\repos\StudentManagementApp\bin\Debug\StudentManagementApp.pdb
+C:\Users\Tri\source\repos\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.AssemblyReference.cache
+C:\Users\Tri\source\repos\StudentManagementApp\obj\Debug\StudentManagementApp.LoginForm.resources
+C:\Users\Tri\source\repos\StudentManagementApp\obj\Debug\StudentManagementApp.MainForm.resources
+C:\Users\Tri\source\repos\StudentManagementApp\obj\Debug\StudentManagementApp.Properties.Resources.resources
+C:\Users\Tri\source\repos\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.GenerateResource.cache
+C:\Users\Tri\source\repos\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\StudentManagementApp\obj\Debug\StudentManagementApp.exe
+C:\Users\Tri\source\repos\StudentManagementApp\obj\Debug\StudentManagementApp.pdb
+C:\Users\Tri\source\repos\StudentManagementApp\obj\Debug\StudentManagementApp.CoursesForm.resources
+C:\Users\Tri\source\repos\StudentManagementApp\obj\Debug\StudentManagementApp.DepartmentsForm.resources
+C:\Users\Tri\source\repos\StudentManagementApp\obj\Debug\StudentManagementApp.InstructorsForm.resources
+C:\Users\Tri\source\repos\StudentManagementApp\obj\Debug\StudentManagementApp.StudentsForm.resources
+C:\Users\Tri\source\repos\StudentManagementApp\obj\Debug\StudentManagementApp.StudentEnrollmentsForm.resources

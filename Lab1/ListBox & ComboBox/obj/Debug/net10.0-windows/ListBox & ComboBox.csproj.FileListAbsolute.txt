@@ -1,0 +1,16 @@
+C:\Users\Tri\source\repos\ListBox & ComboBox\bin\Debug\net10.0-windows\ListBox & ComboBox.exe
+C:\Users\Tri\source\repos\ListBox & ComboBox\bin\Debug\net10.0-windows\ListBox & ComboBox.deps.json
+C:\Users\Tri\source\repos\ListBox & ComboBox\bin\Debug\net10.0-windows\ListBox & ComboBox.runtimeconfig.json
+C:\Users\Tri\source\repos\ListBox & ComboBox\bin\Debug\net10.0-windows\ListBox & ComboBox.dll
+C:\Users\Tri\source\repos\ListBox & ComboBox\bin\Debug\net10.0-windows\ListBox & ComboBox.pdb
+C:\Users\Tri\source\repos\ListBox & ComboBox\obj\Debug\net10.0-windows\ListBox___ComboBox.Form1.resources
+C:\Users\Tri\source\repos\ListBox & ComboBox\obj\Debug\net10.0-windows\ListBox & ComboBox.csproj.GenerateResource.cache
+C:\Users\Tri\source\repos\ListBox & ComboBox\obj\Debug\net10.0-windows\ListBox & ComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tri\source\repos\ListBox & ComboBox\obj\Debug\net10.0-windows\ListBox & ComboBox.AssemblyInfoInputs.cache
+C:\Users\Tri\source\repos\ListBox & ComboBox\obj\Debug\net10.0-windows\ListBox & ComboBox.AssemblyInfo.cs
+C:\Users\Tri\source\repos\ListBox & ComboBox\obj\Debug\net10.0-windows\ListBox & ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\ListBox & ComboBox\obj\Debug\net10.0-windows\ListBox & ComboBox.dll
+C:\Users\Tri\source\repos\ListBox & ComboBox\obj\Debug\net10.0-windows\refint\ListBox & ComboBox.dll
+C:\Users\Tri\source\repos\ListBox & ComboBox\obj\Debug\net10.0-windows\ListBox & ComboBox.pdb
+C:\Users\Tri\source\repos\ListBox & ComboBox\obj\Debug\net10.0-windows\ListBox & ComboBox.genruntimeconfig.cache
+C:\Users\Tri\source\repos\ListBox & ComboBox\obj\Debug\net10.0-windows\ref\ListBox & ComboBox.dll

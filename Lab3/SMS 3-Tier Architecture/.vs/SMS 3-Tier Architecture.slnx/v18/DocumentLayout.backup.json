@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|c:\\users\\tri\\source\\repos\\sms 3-tier architecture\\winformui\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|c:\\users\\tri\\source\\repos\\sms 3-tier architecture\\winformui\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|c:\\users\\tri\\source\\repos\\sms 3-tier architecture\\winformui\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|c:\\users\\tri\\source\\repos\\sms 3-tier architecture\\winformui\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|c:\\users\\tri\\source\\repos\\sms 3-tier architecture\\winformui\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|c:\\users\\tri\\source\\repos\\sms 3-tier architecture\\winformui\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|c:\\users\\tri\\source\\repos\\sms 3-tier architecture\\winformui\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|c:\\users\\tri\\source\\repos\\sms 3-tier architecture\\winformui\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|c:\\users\\tri\\source\\repos\\sms 3-tier architecture\\winformui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|c:\\users\\tri\\source\\repos\\sms 3-tier architecture\\winformui\\courseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\courseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|c:\\users\\tri\\source\\repos\\sms 3-tier architecture\\winformui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|c:\\users\\tri\\source\\repos\\sms 3-tier architecture\\winformui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|c:\\users\\tri\\source\\repos\\sms 3-tier architecture\\winformui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{684F08FB-8046-417A-A3F9-65D70D04DAFA}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2B0A33-9DBE-49BF-9CBE-CBC3FD56372F}|BLL\\BLL.csproj|c:\\users\\tri\\source\\repos\\sms 3-tier architecture\\bll\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2B0A33-9DBE-49BF-9CBE-CBC3FD56372F}|BLL\\BLL.csproj|solutionrelative:bll\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\DepartmentForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\DepartmentForm.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\DepartmentForm.cs [Design]*",
+              "RelativeToolTip": "WinFormUI\\DepartmentForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T08:40:52.143Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\StudentForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\StudentForm.cs [Design]",
+              "RelativeToolTip": "WinFormUI\\StudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T08:40:18.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstructorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\InstructorForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\InstructorForm.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\InstructorForm.cs [Design]*",
+              "RelativeToolTip": "WinFormUI\\InstructorForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T08:40:43.641Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\CourseForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\CourseForm.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\CourseForm.cs",
+              "RelativeToolTip": "WinFormUI\\CourseForm.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAEwDUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T09:07:38.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstructorForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\InstructorForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\InstructorForm.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\InstructorForm.cs*",
+              "RelativeToolTip": "WinFormUI\\InstructorForm.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T09:24:16.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\CourseForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\CourseForm.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\CourseForm.cs [Design]",
+              "RelativeToolTip": "WinFormUI\\CourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T08:40:30.982Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\DepartmentForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\DepartmentForm.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\DepartmentForm.cs*",
+              "RelativeToolTip": "WinFormUI\\DepartmentForm.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T09:29:05.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\StudentForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\StudentForm.cs",
+              "RelativeToolTip": "WinFormUI\\StudentForm.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T08:52:17.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\LoginForm.cs",
+              "RelativeToolTip": "WinFormUI\\LoginForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T08:21:44.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\CourseForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\CourseForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\CourseForm.Designer.cs",
+              "RelativeToolTip": "WinFormUI\\CourseForm.Designer.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAqwLUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T09:11:36.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\MainForm.cs",
+              "RelativeToolTip": "WinFormUI\\MainForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T08:29:50.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\MainForm.cs [Design]",
+              "RelativeToolTip": "WinFormUI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T08:29:41.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\WinFormUI\\LoginForm.cs [Design]",
+              "RelativeToolTip": "WinFormUI\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T08:18:55.957Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\BLL\\CourseService.cs",
+              "RelativeDocumentMoniker": "BLL\\CourseService.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SMS 3-Tier Architecture\\BLL\\CourseService.cs",
+              "RelativeToolTip": "BLL\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T08:18:47.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

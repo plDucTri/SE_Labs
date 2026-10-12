@@ -1,0 +1,16 @@
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\bin\Debug\net10.0-windows\Ex19_FlowLayoutPanel.exe
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\bin\Debug\net10.0-windows\Ex19_FlowLayoutPanel.deps.json
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\bin\Debug\net10.0-windows\Ex19_FlowLayoutPanel.runtimeconfig.json
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\bin\Debug\net10.0-windows\Ex19_FlowLayoutPanel.dll
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\bin\Debug\net10.0-windows\Ex19_FlowLayoutPanel.pdb
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\obj\Debug\net10.0-windows\Ex19_FlowLayoutPanel.Form1.resources
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\obj\Debug\net10.0-windows\Ex19_FlowLayoutPanel.csproj.GenerateResource.cache
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\obj\Debug\net10.0-windows\Ex19_FlowLayoutPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\obj\Debug\net10.0-windows\Ex19_FlowLayoutPanel.AssemblyInfoInputs.cache
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\obj\Debug\net10.0-windows\Ex19_FlowLayoutPanel.AssemblyInfo.cs
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\obj\Debug\net10.0-windows\Ex19_FlowLayoutPanel.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\obj\Debug\net10.0-windows\Ex19_FlowLayoutPanel.dll
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\obj\Debug\net10.0-windows\refint\Ex19_FlowLayoutPanel.dll
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\obj\Debug\net10.0-windows\Ex19_FlowLayoutPanel.pdb
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\obj\Debug\net10.0-windows\Ex19_FlowLayoutPanel.genruntimeconfig.cache
+C:\Users\Tri\source\repos\Ex19_FlowLayoutPanel\obj\Debug\net10.0-windows\ref\Ex19_FlowLayoutPanel.dll

@@ -1,0 +1,16 @@
+C:\Users\Tri\source\repos\Ex17_StatusStrip\bin\Debug\net10.0-windows\Ex17_StatusStrip.exe
+C:\Users\Tri\source\repos\Ex17_StatusStrip\bin\Debug\net10.0-windows\Ex17_StatusStrip.deps.json
+C:\Users\Tri\source\repos\Ex17_StatusStrip\bin\Debug\net10.0-windows\Ex17_StatusStrip.runtimeconfig.json
+C:\Users\Tri\source\repos\Ex17_StatusStrip\bin\Debug\net10.0-windows\Ex17_StatusStrip.dll
+C:\Users\Tri\source\repos\Ex17_StatusStrip\bin\Debug\net10.0-windows\Ex17_StatusStrip.pdb
+C:\Users\Tri\source\repos\Ex17_StatusStrip\obj\Debug\net10.0-windows\Ex17_StatusStrip.Form1.resources
+C:\Users\Tri\source\repos\Ex17_StatusStrip\obj\Debug\net10.0-windows\Ex17_StatusStrip.csproj.GenerateResource.cache
+C:\Users\Tri\source\repos\Ex17_StatusStrip\obj\Debug\net10.0-windows\Ex17_StatusStrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tri\source\repos\Ex17_StatusStrip\obj\Debug\net10.0-windows\Ex17_StatusStrip.AssemblyInfoInputs.cache
+C:\Users\Tri\source\repos\Ex17_StatusStrip\obj\Debug\net10.0-windows\Ex17_StatusStrip.AssemblyInfo.cs
+C:\Users\Tri\source\repos\Ex17_StatusStrip\obj\Debug\net10.0-windows\Ex17_StatusStrip.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\Ex17_StatusStrip\obj\Debug\net10.0-windows\Ex17_StatusStrip.dll
+C:\Users\Tri\source\repos\Ex17_StatusStrip\obj\Debug\net10.0-windows\refint\Ex17_StatusStrip.dll
+C:\Users\Tri\source\repos\Ex17_StatusStrip\obj\Debug\net10.0-windows\Ex17_StatusStrip.pdb
+C:\Users\Tri\source\repos\Ex17_StatusStrip\obj\Debug\net10.0-windows\Ex17_StatusStrip.genruntimeconfig.cache
+C:\Users\Tri\source\repos\Ex17_StatusStrip\obj\Debug\net10.0-windows\ref\Ex17_StatusStrip.dll

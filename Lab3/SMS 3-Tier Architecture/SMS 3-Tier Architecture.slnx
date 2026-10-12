@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BLL/BLL.csproj" Id="ac2b0a33-9dbe-49bf-9cbe-cbc3fd56372f" />
+  <Project Path="DAL/DAL.csproj" Id="e8483e5c-963c-4314-bc80-0ec9e6c2f3d2" />
+  <Project Path="WinFormUI/WinFormUI.csproj" Id="684f08fb-8046-417a-a3f9-65d70d04dafa" />
+</Solution>

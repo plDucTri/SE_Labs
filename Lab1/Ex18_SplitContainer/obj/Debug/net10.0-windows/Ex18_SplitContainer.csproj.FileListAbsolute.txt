@@ -1,0 +1,16 @@
+C:\Users\Tri\source\repos\Ex18_SplitContainer\obj\Debug\net10.0-windows\Ex18_SplitContainer.Form1.resources
+C:\Users\Tri\source\repos\Ex18_SplitContainer\obj\Debug\net10.0-windows\Ex18_SplitContainer.csproj.GenerateResource.cache
+C:\Users\Tri\source\repos\Ex18_SplitContainer\obj\Debug\net10.0-windows\Ex18_SplitContainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tri\source\repos\Ex18_SplitContainer\obj\Debug\net10.0-windows\Ex18_SplitContainer.AssemblyInfoInputs.cache
+C:\Users\Tri\source\repos\Ex18_SplitContainer\obj\Debug\net10.0-windows\Ex18_SplitContainer.AssemblyInfo.cs
+C:\Users\Tri\source\repos\Ex18_SplitContainer\obj\Debug\net10.0-windows\Ex18_SplitContainer.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\Ex18_SplitContainer\bin\Debug\net10.0-windows\Ex18_SplitContainer.exe
+C:\Users\Tri\source\repos\Ex18_SplitContainer\bin\Debug\net10.0-windows\Ex18_SplitContainer.deps.json
+C:\Users\Tri\source\repos\Ex18_SplitContainer\bin\Debug\net10.0-windows\Ex18_SplitContainer.runtimeconfig.json
+C:\Users\Tri\source\repos\Ex18_SplitContainer\bin\Debug\net10.0-windows\Ex18_SplitContainer.dll
+C:\Users\Tri\source\repos\Ex18_SplitContainer\bin\Debug\net10.0-windows\Ex18_SplitContainer.pdb
+C:\Users\Tri\source\repos\Ex18_SplitContainer\obj\Debug\net10.0-windows\Ex18_SplitContainer.dll
+C:\Users\Tri\source\repos\Ex18_SplitContainer\obj\Debug\net10.0-windows\refint\Ex18_SplitContainer.dll
+C:\Users\Tri\source\repos\Ex18_SplitContainer\obj\Debug\net10.0-windows\Ex18_SplitContainer.pdb
+C:\Users\Tri\source\repos\Ex18_SplitContainer\obj\Debug\net10.0-windows\Ex18_SplitContainer.genruntimeconfig.cache
+C:\Users\Tri\source\repos\Ex18_SplitContainer\obj\Debug\net10.0-windows\ref\Ex18_SplitContainer.dll

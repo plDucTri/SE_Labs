@@ -1,0 +1,16 @@
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\bin\Debug\net10.0-windows\DateTimePicker & ProgressBar.exe
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\bin\Debug\net10.0-windows\DateTimePicker & ProgressBar.deps.json
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\bin\Debug\net10.0-windows\DateTimePicker & ProgressBar.runtimeconfig.json
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\bin\Debug\net10.0-windows\DateTimePicker & ProgressBar.dll
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\bin\Debug\net10.0-windows\DateTimePicker & ProgressBar.pdb
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\obj\Debug\net10.0-windows\DateTimePicker___ProgressBar.Form1.resources
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\obj\Debug\net10.0-windows\DateTimePicker & ProgressBar.csproj.GenerateResource.cache
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\obj\Debug\net10.0-windows\DateTimePicker & ProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\obj\Debug\net10.0-windows\DateTimePicker & ProgressBar.AssemblyInfoInputs.cache
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\obj\Debug\net10.0-windows\DateTimePicker & ProgressBar.AssemblyInfo.cs
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\obj\Debug\net10.0-windows\DateTimePicker & ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\obj\Debug\net10.0-windows\DateTimePicker & ProgressBar.dll
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\obj\Debug\net10.0-windows\refint\DateTimePicker & ProgressBar.dll
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\obj\Debug\net10.0-windows\DateTimePicker & ProgressBar.pdb
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\obj\Debug\net10.0-windows\DateTimePicker & ProgressBar.genruntimeconfig.cache
+C:\Users\Tri\source\repos\DateTimePicker & ProgressBar\obj\Debug\net10.0-windows\ref\DateTimePicker & ProgressBar.dll

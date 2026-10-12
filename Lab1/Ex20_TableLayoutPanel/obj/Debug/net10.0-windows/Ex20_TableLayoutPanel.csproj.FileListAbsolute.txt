@@ -1,0 +1,16 @@
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\bin\Debug\net10.0-windows\Ex20_TableLayoutPanel.exe
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\bin\Debug\net10.0-windows\Ex20_TableLayoutPanel.deps.json
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\bin\Debug\net10.0-windows\Ex20_TableLayoutPanel.runtimeconfig.json
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\bin\Debug\net10.0-windows\Ex20_TableLayoutPanel.dll
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\bin\Debug\net10.0-windows\Ex20_TableLayoutPanel.pdb
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\obj\Debug\net10.0-windows\Ex20_TableLayoutPanel.Form1.resources
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\obj\Debug\net10.0-windows\Ex20_TableLayoutPanel.csproj.GenerateResource.cache
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\obj\Debug\net10.0-windows\Ex20_TableLayoutPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\obj\Debug\net10.0-windows\Ex20_TableLayoutPanel.AssemblyInfoInputs.cache
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\obj\Debug\net10.0-windows\Ex20_TableLayoutPanel.AssemblyInfo.cs
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\obj\Debug\net10.0-windows\Ex20_TableLayoutPanel.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\obj\Debug\net10.0-windows\Ex20_TableLayoutPanel.dll
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\obj\Debug\net10.0-windows\refint\Ex20_TableLayoutPanel.dll
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\obj\Debug\net10.0-windows\Ex20_TableLayoutPanel.pdb
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\obj\Debug\net10.0-windows\Ex20_TableLayoutPanel.genruntimeconfig.cache
+C:\Users\Tri\source\repos\Ex20_TableLayoutPanel\obj\Debug\net10.0-windows\ref\Ex20_TableLayoutPanel.dll

@@ -1,0 +1,16 @@
+C:\Users\Tri\source\repos\Ex11_TreeView\bin\Debug\net10.0-windows\Ex11_TreeView.exe
+C:\Users\Tri\source\repos\Ex11_TreeView\bin\Debug\net10.0-windows\Ex11_TreeView.deps.json
+C:\Users\Tri\source\repos\Ex11_TreeView\bin\Debug\net10.0-windows\Ex11_TreeView.runtimeconfig.json
+C:\Users\Tri\source\repos\Ex11_TreeView\bin\Debug\net10.0-windows\Ex11_TreeView.dll
+C:\Users\Tri\source\repos\Ex11_TreeView\bin\Debug\net10.0-windows\Ex11_TreeView.pdb
+C:\Users\Tri\source\repos\Ex11_TreeView\obj\Debug\net10.0-windows\Ex11_TreeView.Form1.resources
+C:\Users\Tri\source\repos\Ex11_TreeView\obj\Debug\net10.0-windows\Ex11_TreeView.csproj.GenerateResource.cache
+C:\Users\Tri\source\repos\Ex11_TreeView\obj\Debug\net10.0-windows\Ex11_TreeView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tri\source\repos\Ex11_TreeView\obj\Debug\net10.0-windows\Ex11_TreeView.AssemblyInfoInputs.cache
+C:\Users\Tri\source\repos\Ex11_TreeView\obj\Debug\net10.0-windows\Ex11_TreeView.AssemblyInfo.cs
+C:\Users\Tri\source\repos\Ex11_TreeView\obj\Debug\net10.0-windows\Ex11_TreeView.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\Ex11_TreeView\obj\Debug\net10.0-windows\Ex11_TreeView.dll
+C:\Users\Tri\source\repos\Ex11_TreeView\obj\Debug\net10.0-windows\refint\Ex11_TreeView.dll
+C:\Users\Tri\source\repos\Ex11_TreeView\obj\Debug\net10.0-windows\Ex11_TreeView.pdb
+C:\Users\Tri\source\repos\Ex11_TreeView\obj\Debug\net10.0-windows\Ex11_TreeView.genruntimeconfig.cache
+C:\Users\Tri\source\repos\Ex11_TreeView\obj\Debug\net10.0-windows\ref\Ex11_TreeView.dll

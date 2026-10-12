@@ -1,0 +1,16 @@
+C:\Users\Tri\source\repos\Ex16_ToolStrip\bin\Debug\net10.0-windows\Ex16_ToolStrip.exe
+C:\Users\Tri\source\repos\Ex16_ToolStrip\bin\Debug\net10.0-windows\Ex16_ToolStrip.deps.json
+C:\Users\Tri\source\repos\Ex16_ToolStrip\bin\Debug\net10.0-windows\Ex16_ToolStrip.runtimeconfig.json
+C:\Users\Tri\source\repos\Ex16_ToolStrip\bin\Debug\net10.0-windows\Ex16_ToolStrip.dll
+C:\Users\Tri\source\repos\Ex16_ToolStrip\bin\Debug\net10.0-windows\Ex16_ToolStrip.pdb
+C:\Users\Tri\source\repos\Ex16_ToolStrip\obj\Debug\net10.0-windows\Ex16_ToolStrip.Form1.resources
+C:\Users\Tri\source\repos\Ex16_ToolStrip\obj\Debug\net10.0-windows\Ex16_ToolStrip.csproj.GenerateResource.cache
+C:\Users\Tri\source\repos\Ex16_ToolStrip\obj\Debug\net10.0-windows\Ex16_ToolStrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tri\source\repos\Ex16_ToolStrip\obj\Debug\net10.0-windows\Ex16_ToolStrip.AssemblyInfoInputs.cache
+C:\Users\Tri\source\repos\Ex16_ToolStrip\obj\Debug\net10.0-windows\Ex16_ToolStrip.AssemblyInfo.cs
+C:\Users\Tri\source\repos\Ex16_ToolStrip\obj\Debug\net10.0-windows\Ex16_ToolStrip.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\Ex16_ToolStrip\obj\Debug\net10.0-windows\Ex16_ToolStrip.dll
+C:\Users\Tri\source\repos\Ex16_ToolStrip\obj\Debug\net10.0-windows\refint\Ex16_ToolStrip.dll
+C:\Users\Tri\source\repos\Ex16_ToolStrip\obj\Debug\net10.0-windows\Ex16_ToolStrip.pdb
+C:\Users\Tri\source\repos\Ex16_ToolStrip\obj\Debug\net10.0-windows\Ex16_ToolStrip.genruntimeconfig.cache
+C:\Users\Tri\source\repos\Ex16_ToolStrip\obj\Debug\net10.0-windows\ref\Ex16_ToolStrip.dll

@@ -1,0 +1,12 @@
+C:\Users\Tri\source\repos\LoginForm 3-Tier Architecture\DAL\bin\Debug\DAL.dll.config
+C:\Users\Tri\source\repos\LoginForm 3-Tier Architecture\DAL\bin\Debug\DAL.dll
+C:\Users\Tri\source\repos\LoginForm 3-Tier Architecture\DAL\bin\Debug\DAL.pdb
+C:\Users\Tri\source\repos\LoginForm 3-Tier Architecture\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Tri\source\repos\LoginForm 3-Tier Architecture\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tri\source\repos\LoginForm 3-Tier Architecture\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Tri\source\repos\LoginForm 3-Tier Architecture\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tri\source\repos\LoginForm 3-Tier Architecture\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Tri\source\repos\LoginForm 3-Tier Architecture\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\LoginForm 3-Tier Architecture\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Tri\source\repos\LoginForm 3-Tier Architecture\DAL\obj\Debug\DAL.dll
+C:\Users\Tri\source\repos\LoginForm 3-Tier Architecture\DAL\obj\Debug\DAL.pdb

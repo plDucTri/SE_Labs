@@ -1,0 +1,16 @@
+C:\Users\Tri\source\repos\Ex13_TabControl\bin\Debug\net10.0-windows\Ex13_TabControl.exe
+C:\Users\Tri\source\repos\Ex13_TabControl\bin\Debug\net10.0-windows\Ex13_TabControl.deps.json
+C:\Users\Tri\source\repos\Ex13_TabControl\bin\Debug\net10.0-windows\Ex13_TabControl.runtimeconfig.json
+C:\Users\Tri\source\repos\Ex13_TabControl\bin\Debug\net10.0-windows\Ex13_TabControl.dll
+C:\Users\Tri\source\repos\Ex13_TabControl\bin\Debug\net10.0-windows\Ex13_TabControl.pdb
+C:\Users\Tri\source\repos\Ex13_TabControl\obj\Debug\net10.0-windows\Ex13_TabControl.Form1.resources
+C:\Users\Tri\source\repos\Ex13_TabControl\obj\Debug\net10.0-windows\Ex13_TabControl.csproj.GenerateResource.cache
+C:\Users\Tri\source\repos\Ex13_TabControl\obj\Debug\net10.0-windows\Ex13_TabControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tri\source\repos\Ex13_TabControl\obj\Debug\net10.0-windows\Ex13_TabControl.AssemblyInfoInputs.cache
+C:\Users\Tri\source\repos\Ex13_TabControl\obj\Debug\net10.0-windows\Ex13_TabControl.AssemblyInfo.cs
+C:\Users\Tri\source\repos\Ex13_TabControl\obj\Debug\net10.0-windows\Ex13_TabControl.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\Ex13_TabControl\obj\Debug\net10.0-windows\Ex13_TabControl.dll
+C:\Users\Tri\source\repos\Ex13_TabControl\obj\Debug\net10.0-windows\refint\Ex13_TabControl.dll
+C:\Users\Tri\source\repos\Ex13_TabControl\obj\Debug\net10.0-windows\Ex13_TabControl.pdb
+C:\Users\Tri\source\repos\Ex13_TabControl\obj\Debug\net10.0-windows\Ex13_TabControl.genruntimeconfig.cache
+C:\Users\Tri\source\repos\Ex13_TabControl\obj\Debug\net10.0-windows\ref\Ex13_TabControl.dll

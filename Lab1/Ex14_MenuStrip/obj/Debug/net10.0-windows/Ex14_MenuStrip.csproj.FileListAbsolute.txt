@@ -1,0 +1,16 @@
+C:\Users\Tri\source\repos\Ex14_MenuStrip\bin\Debug\net10.0-windows\Ex14_MenuStrip.exe
+C:\Users\Tri\source\repos\Ex14_MenuStrip\bin\Debug\net10.0-windows\Ex14_MenuStrip.deps.json
+C:\Users\Tri\source\repos\Ex14_MenuStrip\bin\Debug\net10.0-windows\Ex14_MenuStrip.runtimeconfig.json
+C:\Users\Tri\source\repos\Ex14_MenuStrip\bin\Debug\net10.0-windows\Ex14_MenuStrip.dll
+C:\Users\Tri\source\repos\Ex14_MenuStrip\bin\Debug\net10.0-windows\Ex14_MenuStrip.pdb
+C:\Users\Tri\source\repos\Ex14_MenuStrip\obj\Debug\net10.0-windows\Ex14_MenuStrip.Form1.resources
+C:\Users\Tri\source\repos\Ex14_MenuStrip\obj\Debug\net10.0-windows\Ex14_MenuStrip.csproj.GenerateResource.cache
+C:\Users\Tri\source\repos\Ex14_MenuStrip\obj\Debug\net10.0-windows\Ex14_MenuStrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tri\source\repos\Ex14_MenuStrip\obj\Debug\net10.0-windows\Ex14_MenuStrip.AssemblyInfoInputs.cache
+C:\Users\Tri\source\repos\Ex14_MenuStrip\obj\Debug\net10.0-windows\Ex14_MenuStrip.AssemblyInfo.cs
+C:\Users\Tri\source\repos\Ex14_MenuStrip\obj\Debug\net10.0-windows\Ex14_MenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\Ex14_MenuStrip\obj\Debug\net10.0-windows\Ex14_MenuStrip.dll
+C:\Users\Tri\source\repos\Ex14_MenuStrip\obj\Debug\net10.0-windows\refint\Ex14_MenuStrip.dll
+C:\Users\Tri\source\repos\Ex14_MenuStrip\obj\Debug\net10.0-windows\Ex14_MenuStrip.pdb
+C:\Users\Tri\source\repos\Ex14_MenuStrip\obj\Debug\net10.0-windows\Ex14_MenuStrip.genruntimeconfig.cache
+C:\Users\Tri\source\repos\Ex14_MenuStrip\obj\Debug\net10.0-windows\ref\Ex14_MenuStrip.dll

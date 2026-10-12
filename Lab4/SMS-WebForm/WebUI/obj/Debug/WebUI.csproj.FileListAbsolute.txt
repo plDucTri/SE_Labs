@@ -1,0 +1,17 @@
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\bin\WebUI.dll.config
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\bin\WebUI.dll
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\bin\WebUI.pdb
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\bin\BLL.dll
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\bin\DAL.dll
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\bin\EntityFramework.dll
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\bin\BLL.pdb
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\bin\DAL.pdb
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\bin\DAL.dll.config
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\bin\EntityFramework.xml
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\obj\Debug\WebUI.csproj.AssemblyReference.cache
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\obj\Debug\WebUI.csproj.Up2Date
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\obj\Debug\WebUI.dll
+C:\Users\Tri\source\repos\SMS-WebForm\WebUI\obj\Debug\WebUI.pdb
