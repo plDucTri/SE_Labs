@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DateTimePicker & ProgressBar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4118c0a854eef28bff89b4955d79a3154f3f893")]
 [assembly: System.Reflection.AssemblyProductAttribute("DateTimePicker & ProgressBar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DateTimePicker & ProgressBar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
